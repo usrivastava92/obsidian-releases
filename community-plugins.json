@@ -25191,5 +25191,12 @@
     "author": "akitaroh",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Inline GUI editor for Mermaid diagrams. Wikilinks, tags, math and rich markdown work inside nodes.",
     "repo": "akitaroh/obsidian-mermaid-maker"
+  },
+  {
+    "id": "obsidian-native-mcp",
+    "name": "Obsidian Native MCP",
+    "author": "Utkarsh Srivastava",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. MCP server for AI assistants to read, search, create, and modify notes in your vaults.",
+    "repo": "usrivastava92/obsidian-native-mcp"
   }
 ]
